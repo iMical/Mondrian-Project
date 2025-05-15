@@ -1,0 +1,117 @@
+body{
+  background-color: #f6f6f6
+}
+
+#mondrian{
+  background-color: #fff4db;
+  width: 400px;
+  height: 400px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#tophalf{
+  height: 290px;
+}
+
+#bottomhalf{
+  height: 100px;
+  witdh: 400px;
+}
+
+#topleft{
+  width: 100px;
+  height: 290px;
+}
+
+bottomright{
+  width: 90px;
+  height: 100px;
+}
+
+#toprightbox{
+  width: 290px;
+  height: 290px;
+  background-color: #F8AD9D;
+}
+
+#topleftbox1{
+  width: 100px;
+  height: 140px;
+  background-color: #F08080;
+}
+
+#topleftbox2{
+  width: 100px;
+  height: 90px;
+  background-color: #F4978E;
+}
+
+#topleftbox3{
+  width: 100px;
+  height: 40px;
+  background-color: #F4978E;
+}
+
+#bottomleftbox{
+  width: 100px;
+  height: 100px;
+  background-color: #FBC4AB;
+}
+
+#bottommiddlebox {
+  width: 190px;
+  height: 100px;
+  background-color: #FFDAB9;
+}
+
+#bottomrightbox1{
+  width: 90px;
+  height: 45px;
+  background-color: #FBC4AB;
+}
+
+#bottomrightbox2{
+  width: 90px;
+  height: 45px;
+  background-color: #F4978E;
+}
+
+.floaty{
+  float: right;
+}
+
+.floater{
+  float: left;
+}
+
+#divider1 {
+  height: 290px;
+  width: 10px;
+}
+
+#divider2 {
+  height: 10px;
+  width: 100px;
+}
+
+#divider3{
+  height: 10px;
+  width: 400px;
+}
+
+#divider4{
+  height: 100px;
+  width: 10px;
+}
+
+#divider5{
+  height: 10px;
+  width: 90px;
+}
+
+.black{
+  background-color: black;
+}
